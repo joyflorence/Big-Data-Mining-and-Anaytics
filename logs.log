@@ -1,0 +1,60 @@
+2024-10-03 16:45:05,542:WARNING:/Users/ernestbalzer/Library/Python/3.12/lib/python/site-packages/IPython/core/completerlib.py:120: UserWarning: using rootmodules_cache requires you to install the `pickleshare` library.
+  rootmodules_cache = ip.db.get('rootmodules_cache', {})
+
+2024-10-03 16:45:07,212:WARNING:/Users/ernestbalzer/Library/Python/3.12/lib/python/site-packages/IPython/core/completerlib.py:120: UserWarning: using rootmodules_cache requires you to install the `pickleshare` library.
+  rootmodules_cache = ip.db.get('rootmodules_cache', {})
+
+2024-10-03 16:45:07,827:WARNING:/Users/ernestbalzer/Library/Python/3.12/lib/python/site-packages/IPython/core/completerlib.py:120: UserWarning: using rootmodules_cache requires you to install the `pickleshare` library.
+  rootmodules_cache = ip.db.get('rootmodules_cache', {})
+
+2024-10-03 16:45:13,413:WARNING:/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/pty.py:95: DeprecationWarning: This process (pid=4421) is multi-threaded, use of forkpty() may lead to deadlocks in the child.
+  pid, fd = os.forkpty()
+
+2024-10-03 16:47:30,214:WARNING:/var/folders/fz/73x0k3yj55b9_g8mt4krpwr80000gn/T/ipykernel_4421/1027671345.py:2: RankWarning: Polyfit may be poorly conditioned
+  fit = np.polyfit(rules_cassava['lift'], rules_cassava['confidence'], 1)
+
+2024-10-03 16:47:38,631:WARNING:/var/folders/fz/73x0k3yj55b9_g8mt4krpwr80000gn/T/ipykernel_4421/1085992229.py:2: RankWarning: Polyfit may be poorly conditioned
+  fit = np.polyfit(rules_cassava['lift'], rules_cassava['confidence'], 1)
+
+2024-10-03 16:47:49,610:WARNING:/var/folders/fz/73x0k3yj55b9_g8mt4krpwr80000gn/T/ipykernel_4421/396752599.py:2: RankWarning: Polyfit may be poorly conditioned
+  fit = np.polyfit(rules_cassava['lift'], rules_cassava['confidence'], 1)
+
+2024-10-03 16:47:57,561:WARNING:/var/folders/fz/73x0k3yj55b9_g8mt4krpwr80000gn/T/ipykernel_4421/396752599.py:2: RankWarning: Polyfit may be poorly conditioned
+  fit = np.polyfit(rules_cassava['lift'], rules_cassava['confidence'], 1)
+
+2024-10-03 16:57:35,766:WARNING:/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/openpyxl/packaging/core.py:99: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  now = datetime.datetime.utcnow()
+
+2024-10-03 16:57:35,770:WARNING:/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/openpyxl/packaging/core.py:99: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  now = datetime.datetime.utcnow()
+
+2024-10-03 16:58:42,415:WARNING:/var/folders/fz/73x0k3yj55b9_g8mt4krpwr80000gn/T/ipykernel_4421/396752599.py:2: RankWarning: Polyfit may be poorly conditioned
+  fit = np.polyfit(rules_cassava['lift'], rules_cassava['confidence'], 1)
+
+2024-10-03 17:05:44,461:WARNING:/Users/ernestbalzer/Library/Python/3.12/lib/python/site-packages/IPython/core/completerlib.py:120: UserWarning: using rootmodules_cache requires you to install the `pickleshare` library.
+  rootmodules_cache = ip.db.get('rootmodules_cache', {})
+
+2024-10-03 17:05:45,329:WARNING:/Users/ernestbalzer/Library/Python/3.12/lib/python/site-packages/IPython/core/completerlib.py:120: UserWarning: using rootmodules_cache requires you to install the `pickleshare` library.
+  rootmodules_cache = ip.db.get('rootmodules_cache', {})
+
+2024-10-03 17:06:13,049:WARNING:/Users/ernestbalzer/Library/Python/3.12/lib/python/site-packages/IPython/core/completerlib.py:120: UserWarning: using rootmodules_cache requires you to install the `pickleshare` library.
+  rootmodules_cache = ip.db.get('rootmodules_cache', {})
+
+2024-10-03 17:06:23,571:WARNING:/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/pty.py:95: DeprecationWarning: This process (pid=4421) is multi-threaded, use of forkpty() may lead to deadlocks in the child.
+  pid, fd = os.forkpty()
+
+2024-10-03 17:07:39,140:WARNING:/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/openpyxl/packaging/core.py:99: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  now = datetime.datetime.utcnow()
+
+2024-10-03 17:07:39,146:WARNING:/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/openpyxl/packaging/core.py:99: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  now = datetime.datetime.utcnow()
+
+2024-10-03 17:07:47,299:WARNING:/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/openpyxl/packaging/core.py:99: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  now = datetime.datetime.utcnow()
+
+2024-10-03 17:07:47,302:WARNING:/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/site-packages/openpyxl/packaging/core.py:99: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  now = datetime.datetime.utcnow()
+
+2024-10-03 17:10:42,966:WARNING:/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/pty.py:95: DeprecationWarning: This process (pid=4421) is multi-threaded, use of forkpty() may lead to deadlocks in the child.
+  pid, fd = os.forkpty()
+
